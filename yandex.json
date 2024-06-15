@@ -1,0 +1,15 @@
+{
+  "package_count": {
+    "total": 1,
+    "done": 0,
+    "packages_with_icon": 1,
+    "packages_with_screenshot": 0,
+    "total_screenshots": 0
+  },
+  "icons_and_screenshots": {
+    "yandex-music": {
+      "icon": "https://yastatic.net/s3/doc-binary/src/mediaservices/yandex_music_icon_ru_darkbg.png",
+      "images": []
+    }
+  }
+}
